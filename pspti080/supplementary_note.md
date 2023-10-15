@@ -12,31 +12,24 @@
   - mental harm 
 - jurisdictions 司法管辖权，司法管辖区 
 
+- report
+
+- complaint 
 
 
 
-
-report
-
-complaint 
+- authenticity in translation VS syntatic linearity 
 
 
 
+- interview n. 问话
 
+  - suspect : 审问 interrogation 
 
-authenticity in translation VS syntatic linearity 
+  - witness , victim 问话
 
-
-
-interview n. 问话
-
-- suspect : 审问 interrogation 
-
-- witness , victim 问话
-
-- a department interview 
-
-  - (dept - immi, department of home affairs)
+  - a department interview 
+    - (dept - immi, department of home affairs)
 
 - claim n. 声称 ( statement not yet proved to be true)
 
@@ -127,4 +120,6 @@ interview n. 问话
   - callover 
   - directioins 
   - pre-trial reviews 
+
+--------
 
